@@ -2,7 +2,7 @@
 
 ## [Live Demo](https://ozan-sert.github.io/tic-tac-toe/)
 
-Tic Tac Toe clone made with React, Typescript as the language, Tailwind for CSS, and Vite as the build tool.
+Tic Tac Toe game made with React, Typescript as the language, Tailwind for CSS, and Vite as the build tool.
 
 ### Technologies Used 
 
